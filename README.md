@@ -1,4 +1,5 @@
-# P1 Animal Trading Cards
-(Project 1 from Udacity Nanodegree course)
+# Animal Trading Cards
+Project 1 in Udacity Nanodegree program)
 
+## About
 Simple project combining HTML and CSS skills
